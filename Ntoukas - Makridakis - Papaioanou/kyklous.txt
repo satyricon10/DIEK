@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<i><h1>Kyklous</h1></i>
+
+<svg width="200" height="200">
+   <circle cx="100" cy="80" r="60" stroke="red" stroke-width="8" fill="black" />
+   Sorry, your browser does not support inline SVG.
+</svg> 
+<svg width="200" height="200">
+   <circle cx="50" cy="50" r="40" stroke="red" stroke-width="8" fill="black" />
+   Sorry, your browser does not support inline SVG.
+</svg> 
+<img src="https://static.pexels.com/photos/87452/flowers-background-butterflies-beautiful-87452.jpeg" width="650" height="350"> 
+</body>
+</html>
